@@ -1,2 +1,4 @@
+.exe
+.cache
 # Ignore build directory
 /build/
