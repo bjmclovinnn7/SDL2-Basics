@@ -1,0 +1,3 @@
+C:/Users/bjmcb/Desktop/Basics/build/CMakeFiles/Basics.dir
+C:/Users/bjmcb/Desktop/Basics/build/CMakeFiles/edit_cache.dir
+C:/Users/bjmcb/Desktop/Basics/build/CMakeFiles/rebuild_cache.dir
